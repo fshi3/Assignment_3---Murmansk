@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
+<div class="container">
 <head>
+
 	<link rel="stylesheet" href="css/flexslider.css" type="text/css">
+
+	<!-- google font link -->
+	<link href="https://fonts.googleapis.com/css?family=Cinzel|Lato" rel="stylesheet">
+	<!-- link to style.css -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 	<script src="jquery_plugin/jquery.flexslider.js"></script>	
     <script>
@@ -39,15 +47,20 @@
 	    </li>
 	    </ul>
 	</div>
-
-	<h2>Kyle Pollock</h2>
+   
+	<h2>Kyle Pollock</h2> 
+	<div class="wrap">
 	<p>My name is Kyle Pollock. I am a Computer Science student of Class '18. I am also minoring in Chinese Language and Culture.</p>
+</div>
 
 	<h2>Sidhant Ahluwalia</h2>
+	<div class="one">
 	<p>I'm a computer science major at the University of Rochester. My area of study is focused in Human-computer Interaction, ties in my interest in learning how design can make or break a product.</p>
-
+</div>
 	<h2>Zubair Aziz</h2>
+	<div class="two">
 	<p>My name is Zubair Aziz. I am 21 years old. I was born on April 28, 1996. My hometown is Kuala Lumpur, Malaysia. I am currently a junior, anticipated to graduate in May, 2019.</p>
-
+</div>
 </body>
+</div>
 </html>

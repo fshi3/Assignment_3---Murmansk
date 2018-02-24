@@ -1,21 +1,28 @@
 <!DOCTYPE html>
 <html lang="en-US">
-
+<div class="container">
 <head>
     <title>Zubair</title>
+    <!-- google font link -->
+    <link href="https://fonts.googleapis.com/css?family=Cinzel|Lato" rel="stylesheet">
+    <!-- link to style.css -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
 <body>
     <!--TO CODER: Please implement php code to create a menu highlighter for the current page-->
     <?php include 'includes/navigation.php';?>
 
-    <h1>About me</h1>
 
-    <img src="images/face.jpg" alt="Zubair's face" height="250" width="250">
 
-    <article>
+    <h1>Zubair Aziz</h1>
+    <h2>About Me & Education</h2>
+    <div class="wrap">
+    <img src="images/face.jpg" alt="Zubair's face" height="250" width="300">
 
-        <h2>About Me & Education</h2>
+    
+
+       
 
             <p>
                 My name is Zubair Aziz. I am 21 years old. I was born on April 28, 1996. My hometown is Kuala Lumpur, Malaysia. I am currently a junior, anticipated to graduate in May, 2019. I started off my first year in college majoring in Economics.
@@ -31,9 +38,10 @@
                 in a dance class and an art class. I'm excited for this chance to branch out and obtain new experiences before
                 I graduate.
             </p>
+</div>
 
             <h2>Work Experience</h2>
-
+<div class="one">
             <p>
                 I currently work for IT Services on campus, working as an IT Consultant. Here, I assist with network registration and troubleshoot
                 network issues, troubleshoot NetID and login issues, provide support through various methods,assist with
@@ -58,9 +66,10 @@
                 Alpha Kappa Psi has helped me develop my professional skills tremendously, and Grass Roots Soccer has given
                 me a great opportunity to give back to the community.
             </p>
+</div>
 
             <h2>Interests & Hobbies</h2>
-
+<div class="two">
             <p>
                 I enjoy painting in my free time. I took up painting a few years ago, teaching myself different painting techniques on various
                 mediums. I mostly do nature scenes and landscapes. Attempting these types of paintings tend to help relax
@@ -73,8 +82,8 @@
                 playing it ever since.
             </p>
 
-    </article>
-
+    
+</div>
 </body>
-
+</div>
 </html>

@@ -1,20 +1,27 @@
 <!DOCTYPE html>
 <html lang="en-US">
-
+<div class="container">
 <head>
 	<title>Kyle</title>
+	<!-- google font link -->
+	<link href="https://fonts.googleapis.com/css?family=Cinzel|Lato" rel="stylesheet">
+	<!-- link to style.css -->
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
 <body>
 	<!--TO CODER: Please implement php code to create a menu highlighter for the current page-->
 	<?php include 'includes/navigation.php';?>
 
-	<h1>Kyle Pollock</h1>
-		
-	<img class="profile-pic" src="images/kyle.jpg" alt="Kyle" height="250" width="320">
 
-	<article>
-		<h2>About Me & Education</h2>
+
+	<h1>Kyle Pollock</h1>
+	<h2>About Me & Education</h2>
+	<div class="wrap">	
+	<img class="profile-pic" src="images/kyle.jpg" alt="Kyle" height="250" width="300">
+
+
+		
 		<p>
 			My name is Kyle Pollock. I am a Computer Science student of Class '18. I am also minoring in Chinese Language and Culture.
 			I began my undergraduate career at the University of Rochester studying genetics with a focus in premedical studies. The
@@ -26,8 +33,10 @@
 			trajectory. Ever since I wrote my first “Hello, World!” program, I have been completely sold on computer science as both
 			a career, pastime, and continuous education.
 		</p>
+</div>
 
 		<h2>Work Experience</h2>
+		<div class="one">
 
 		I am the Founder & Chief Software Architect at Espre Studios, LLC. I started it in May 2017.
 
@@ -37,8 +46,10 @@
 
 		From October 2013 to May 2014 I did Cancer Stem Cell Researcher at Cleveland Clinic.
 		There I assisted with advanced research regarding cancer stem cells and learned basic lab procedures and tests such as RT-PCR, western blotting, and flow cytometry.
+</div>
 
 		<h2>Interests & Hobbies</h2>
+		<div class="two">
 		<p>
 			I’m a total nerd. And, like most nerds, I played a lot of video games as a kid. I eventually got bored of playing the same
 			games, so I started to modify the code behind my games: adding to them, perfecting them. I didn't know it then, but that
@@ -50,11 +61,10 @@
 			Please feel free to send me a message here on LinkedIn or my University of Rochester email: kpolloc3@u.rochester.edu Specialties:
 			Web and mobile application development, market research, statistics, and financial accounting and investment.
 		</p>
-
-	</article>
-
+</div>
+	
 </body>
-
+</div>
 </html>
 
 
