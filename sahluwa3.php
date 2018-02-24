@@ -12,8 +12,10 @@
 
 <body>
 	<!--TO CODER: Please implement php code to create a menu highlighter for the current page-->
-	<?php include 'includes/navigation.php';?>
-	
+	<?php 
+	include 'includes/navigation.php';
+	 include 'includes/script.php';
+	 ?>
 	<h1>Sidhant Ahluwalia</h1>
 	<h2>About Me & Education</h2>
     <div class="wrap">
