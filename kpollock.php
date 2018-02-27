@@ -20,7 +20,7 @@
 	<h1>Kyle Pollock</h1>
 	<h2>About Me & Education</h2>
 	<div class="wrap">	
-	<img class="profile-pic" src="images/kyle.jpg" alt="Kyle" height="250" width="300">
+	<img class="profile-pic" src="images/kyle.jpg" alt="Kyle" height="250" width="310">
 
 
 		
@@ -66,6 +66,9 @@
 </div>
 	
 </body>
+<footer>
+    <p>Copyright @ Information Architect: Forest Shi, Design Artist: Qianyi Li, Coder: Praphul </p>
+</footer>
 </div>
 </html>
 

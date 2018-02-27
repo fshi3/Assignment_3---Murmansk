@@ -20,7 +20,7 @@
     <h1>Zubair Aziz</h1>
     <h2>About Me & Education</h2>
     <div class="wrap">
-    <img src="images/face.jpg" alt="Zubair's face" height="250" width="300">
+    <img src="images/face.jpg" alt="Zubair's face" height="250" width="310">
 
     
 
@@ -87,5 +87,8 @@
     
 </div>
 </body>
+<footer>
+    <p>Copyright @ Information Architect: Forest Shi, Design Artist: Qianyi Li, Coder: Praphul </p>
+</footer>
 </div>
 </html>

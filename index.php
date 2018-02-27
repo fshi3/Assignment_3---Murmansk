@@ -70,5 +70,8 @@
     ?>
 
 </body>
+<footer>
+    <p>Copyright @ Information Architect: Forest Shi, Design Artist: Qianyi Li, Coder: Praphul </p>
+</footer>
 </div>
 </html>

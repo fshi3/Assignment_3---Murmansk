@@ -19,7 +19,7 @@
 	<h1>Sidhant Ahluwalia</h1>
 	<h2>About Me & Education</h2>
     <div class="wrap">
-	<img src="images/sid.jpg" alt="image of me" height="250" width="300">
+	<img src="images/sid.jpg" alt="image of me" height="250" width="310">
 
 
 	
@@ -45,5 +45,8 @@
 		<p>Through the course of my college career I worked on various projects, but one in particular struck out, Gesture Link db, a project I worked on for my HCI class is a device that recognizes sounds made by different gestures which are then classified to do tasks. The purpose of creating gesture link was to help the handicapped and elderly to be able to control technology without having to go through the complicated setup process and controls. We approached the design to be simplistic and user friendly, gesture link uses python to classify different sounds, sources the numbers of highs in the frequency curve and does a resulting action. For the prototype we used a pair of standard apple microphone as the sound receiver and hosted a website to showcase the project with demos of dimming lights and turning them on/off. This is just one aspect of the endless possible actions gesture link can perform to help make technology easier for everyone.</p>
 </div>
 </body>
+<footer>
+    <p>Copyright @ Information Architect: Forest Shi, Design Artist: Qianyi Li, Coder: Praphul </p>
+</footer>
 </div>
 </html>
