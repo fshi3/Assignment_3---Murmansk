@@ -27,7 +27,7 @@
 	<!--Done--><!-- TO CODER: Please make sure the flexslider is implemented correctly and works-->
 	<!-- TO Design Artist: Please make the flexslider make better. Maybe make it smaller instead of fullscreen so that the images are not distorted. Place a nice frame around the images that fit well with the rest of the color scheme of your choice-->
 	
-		<div class="container">	
+		<div class="container2">	
   		<div class="slides">
   		<ul class="rslides">
 		<li> <img src="images/kyle.jpg" alt="picture of Kyle"> </li>
