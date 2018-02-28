@@ -12,7 +12,7 @@
 	<title>Computer Science Students in CSC174</title>
 </head>
 
-<body>
+<body id="body1">
 	<!--Done--><!--TO CODER: Please implement php code to create a menu highlighter for the current page-->
 	<!--TO Design Artist: Make the navbar look better and easier to use. Maybe have them be horizontal, right aligned, with the city name left aligned. The city name can act as a logo, and also linked to the home page. Also please add css for when hovering over nav elements.-->
 	<?php include 'includes/navigation.php';?>
@@ -20,10 +20,11 @@
 	<?php include 'includes/script.php';?>
 	
 	<h1>Computer Science Students in CSC174</h1>
+	<div class="top">
 	<div>
 		<p>This page is dedicated to three students that all study Computer Science at the University of Rochester and all three also happen to be taking the course CSC174 - Advanced Front-End Web Design, in Spring 2018. You can learn more about the individual students, their academic and professional careers on their individual pages.</p>
 	</div>
-
+</div>
 	<!--Done--><!-- TO CODER: Please make sure the flexslider is implemented correctly and works-->
 	<!-- TO Design Artist: Please make the flexslider make better. Maybe make it smaller instead of fullscreen so that the images are not distorted. Place a nice frame around the images that fit well with the rest of the color scheme of your choice-->
 	
