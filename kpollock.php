@@ -6,7 +6,7 @@
 	<!-- google font link -->
 	<link href="https://fonts.googleapis.com/css?family=Cinzel|Lato" rel="stylesheet">
 	<!-- link to style.css -->
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="./bootstrap/css/override.css">
 </head>
 
 <body>
