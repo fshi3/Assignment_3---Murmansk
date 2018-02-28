@@ -5,6 +5,10 @@
 
         
 	}
+
+#body1{
+  margin : 8px !important; 
+}
 .container h1{
 	font-size: 35px;
 }
@@ -91,4 +95,12 @@ li a:hover {
 
 .intro { 
   padding-left: 60px;
+}
+
+.top
+{
+  background-color: #daad86;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 12px;
 }
